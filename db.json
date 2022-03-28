@@ -1,0 +1,136 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "xbook",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVDj4OgRgtZXmDJBJs-lSvQxIy_65ONomt7Q&usqp=CAU",
+        "description": "Book desc_1",
+        "reviews": ["multiple reviews here", "multiple reviews here"],
+        "author": "autor_1",
+        "price": 2354,
+        "section": "Mystery",
+        "isbnNumber": 1234567
+      },
+      {
+        "id": 2,
+        "title": "ybook",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTrekc5f5X7mciQRmjSUGoylTWlBUs3sPkwA&usqp=CAU",
+        "description": "Book desc_2",
+        "reviews": ["multiple reviews here", "multiple reviews here"],
+        "author": "autor_2",
+        "price": 2535,
+        "section": "Mystery",
+        "isbnNumber": 12567
+      },
+      {
+        "id": 3,
+        "title": "zbook",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0L2Aean2_1aTC3o-NCcZtHKE4u8ju8pQhA&usqp=CAU",
+        "description": "Book desc_3",
+        "reviews": ["multiple reviews here", "multiple reviews here"],
+        "author": "autor_3",
+        "price": 1024,
+        "section": "Mystery",
+        "isbnNumber": 12365567
+      },
+      {
+        "id": 4,
+        "title": "cbook",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0L2Aean2_1aTC3o-NCcZtHKE4u8ju8pQhA&usqp=CAU",
+        "description": "Book desc_4",
+        "reviews": ["multiple reviews here", "multiple reviews here"],
+        "author": "autor_4",
+        "price": 4535,
+        "section": "Technology",
+        "isbnNumber": 12225567
+      },
+      {
+        "id": 5,
+        "title": "jbook",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiHqFLMP_n6u8RhHsT-ERKE4xXGiKs6VdqCw&usqp=CAU",
+        "description": "Book desc_5",
+        "reviews": ["multiple reviews here", "multiple reviews here"],
+        "author": "autor",
+        "price": 5535,
+        "section": "Technology",
+        "isbnNumber": 12225567
+      },
+      {
+        "id": 6,
+        "title": "lbook",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0L2Aean2_1aTC3o-NCcZtHKE4u8ju8pQhA&usqp=CAU",
+        "description": "Book desc_6",
+        "reviews": ["multiple reviews here", "multiple reviews here"],
+        "author": "autor_6",
+        "price": 6535,
+        "section": "Technology",
+        "isbnNumber": 12225577
+      },
+      {
+        "id": 7,
+        "title": "ubook",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8brbus6oOIe-ZkbRsVx8DwP6-ZWZzawJQaA&usqp=CAU",
+        "description": "Book desc_7",
+        "reviews": ["multiple reviews here", "multiple reviews here"],
+        "author": "autor_7",
+        "price": 7535,
+        "section": "Mythology",
+        "isbnNumber": 12225567
+      },
+      {
+        "id": 8,
+        "title": "abook",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZCr6BNcjeY-dw79vxRfgUjJj3Bf2HyDtcQ&usqp=CAU",
+        "description": "Book desc_8",
+        "reviews": ["multiple reviews here", "multiple reviews here"],
+        "author": "autor_8",
+        "price": 8535,
+        "section": "Mythology",
+        "isbnNumber": 12225568
+      },
+      {
+        "id": 9,
+        "title": "kbook",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStRH6UC8NAf29eb8B2ANSQI3kOB6H4XPq0yg&usqp=CAU",
+        "description": "Book desc_9",
+        "reviews": ["multiple reviews here", "multiple reviews here"],
+        "author": "autor_9",
+        "price": 9535,
+        "section": "Mythology",
+        "isbnNumber": 12225569
+      },
+      {
+        "id": 10,
+        "title": "wqbook",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBMUlvKOv5_a1h8FUH2KpU4HD-CDCArJf12A&usqp=CAU",
+        "description": "Book desc_10",
+        "reviews": ["multiple reviews here", "multiple reviews here"],
+        "author": "autor_10",
+        "price": 10535,
+        "section": "History",
+        "isbnNumber": 122255610
+      },
+      {
+        "id": 11,
+        "title": "bookfsjkd",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDSkvAnTeYi8cbOgOozOc7DuUDmxRmGtFnkg&usqp=CAU",
+        "description": "Book desc_11",
+        "reviews": ["multiple reviews here", "multiple reviews here"],
+        "author": "autor_11",
+        "price": 11535,
+        "section": "History",
+        "isbnNumber": 122255611
+      },
+      {
+        "id": 12,
+        "title": "bookfkdjfd",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVjvcdz23xfImk2Zpz0Z17AgpAJJSPwy6vwQ&usqp=CAU",
+        "description": "Book desc_12",
+        "reviews": ["multiple reviews here", "multiple reviews here"],
+        "author": "autor_12",
+        "price": 12535,
+        "section": "History",
+        "isbnNumber": 122255612
+      }
+    ]
+  }
